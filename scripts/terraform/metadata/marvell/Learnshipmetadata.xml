@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor entityID="http://www.okta.com/exk7kk2q1lOS1RBEc2p7" xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata"><md:IDPSSODescriptor WantAuthnRequestsSigned="false" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIIDnjCCAoagAwIBAgIGAWEGrroxMA0GCSqGSIb3DQEBCwUAMIGPMQswCQYDVQQGEwJVUzETMBEG
+A1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzENMAsGA1UECgwET2t0YTEU
+MBIGA1UECwwLU1NPUHJvdmlkZXIxEDAOBgNVBAMMB21hcnZlbGwxHDAaBgkqhkiG9w0BCQEWDWlu
+Zm9Ab2t0YS5jb20wHhcNMTgwMTE4MDAzMTQ5WhcNMjgwMTE4MDAzMjQ5WjCBjzELMAkGA1UEBhMC
+VVMxEzARBgNVBAgMCkNhbGlmb3JuaWExFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xDTALBgNVBAoM
+BE9rdGExFDASBgNVBAsMC1NTT1Byb3ZpZGVyMRAwDgYDVQQDDAdtYXJ2ZWxsMRwwGgYJKoZIhvcN
+AQkBFg1pbmZvQG9rdGEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxaWWvUlu
+TAemeirrzfyjNpRlVtXiasta6C4n4omvbAKg9ITGVpZgynG74k/eBkL4oN+LPbAY66l9rCEoZ2W+
+Dfk5eoTTLSDRg+NdIeN1zKlVFMPuU43wBAXqadGsPy2szSLshER66vbHZsozjMRG83wGkYKEmN2E
+y7rn/whpm7c+cOz0ajSdAsABAUzD+XXKjZ5wFNL8BFzv0rx/VSYx29ij2RtV5mosWFX4yPqw5gdZ
+iR7p6+AM3SItdK+JSOpcsgUrgRNNLWaMYi6invEPPl7FZAeK9Wtt6wyt08sSAja+Scktmgoqcg5B
+zIG/Nb3PVLjSMy5OUC+HSijcR29IHQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQCwwKh1W1MWv7aX
+p3UdWnWbZ5OgGW2flstsvw3bvCpJehHxUstVuw1211ppaJ0C5QuVBEo4r/KQCotOrYhLFlXNORcZ
+XZTHtbZh0G40JWTZznuid8qJQmoAczG7LSW1TXoIZGWVAjSIpRQWQB94/npsbbk4J0HSlP9/fODS
+I8/Zps22r7JupKprUwPMn2jCcW5ea1kWUYvQ+C3qtktApFxpcU2SwtqNJkZR2V1SVKNphNpUn9HH
+whMp/oU0xTDopwtByvG24NE1XAur5/ZSK5sBx75B+hHDBF6b1AHycX4N0xjisWw0aHRR2mhgvhOQ
+LvLJIhhc/PN0U9cArRSQhHjZ</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</md:NameIDFormat><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://marvell.okta.com/app/marvellsemiconductor_learnshipglobalenglish_1/exk7kk2q1lOS1RBEc2p7/sso/saml"/><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://marvell.okta.com/app/marvellsemiconductor_learnshipglobalenglish_1/exk7kk2q1lOS1RBEc2p7/sso/saml"/></md:IDPSSODescriptor></md:EntityDescriptor>

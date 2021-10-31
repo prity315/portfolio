@@ -1,0 +1,29 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "cognitoidp",
+      "Action": [
+        "logs:*",
+        "cognito-idp:*",
+        "lambda:InvokeFunction",
+        "sqs:*"
+    ],
+      "Effect": "Allow",
+      "Resource": "*"
+    },
+    {
+      "Action": [
+          "ec2:CreateNetworkInterface",
+          "ec2:DescribeNetworkInterfaces",
+          "ec2:CreateNetworkInterfacePermission",
+          "ec2:DescribeNetworkInterfaceAttribute",
+          "ec2:DeleteNetworkInterface",
+          "ec2:AttachNetworkInterface",
+          "ec2:DescribeNetworkInterfacePermissions"
+      ],
+      "Effect": "Allow",
+      "Resource": "*"
+    }
+  ]
+}
